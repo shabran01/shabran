@@ -8,7 +8,7 @@
   
 Welcome to my Github page!
 
-My name is Alvin Kiveu , and I'm a fullstack developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on both the front-end and back-end of web applications, which allows me to have a diverse range of technical abilities.
+My name is Shabran Kweyu , and I'm a fullstack developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on both the front-end and back-end of web applications, which allows me to have a diverse range of technical abilities.
 
 What I enjoy most about being a fullstack developer is the opportunity to constantly learn and adapt to new technologies. This keeps me on my toes and helps me stay up-to-date with the latest trends and best practices in the industry.
 
@@ -16,9 +16,9 @@ One thing that sets me apart as a fullstack developer is my strong communication
 
 Overall, I'm excited about the future of technology and the role I can play in shaping it as a fullstack developer.
 
-<h4>SUBSCRIBE TO UMESKIA SOFTWARES YOUTUBE CHANNEL</h4>
+<h4>CHECK OUT MY ISP BILLING SYSTEM</h4>
 
-Click <a href="https://www.youtube.com/@umeskiasoftwares"> here </a>to subscribe
+Click <a href="https://speedcomwifi.xyz"> here </a> More Info
 
 Things I code with
 
@@ -51,7 +51,7 @@ Things I code with
 <h1>Copy Profile</h1>
 
 ```md
-https://github.com/alvin-kiveu/
+https://github.com/shabran01/shabran/
 ```
 
 
